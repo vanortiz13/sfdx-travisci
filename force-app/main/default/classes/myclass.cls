@@ -10,4 +10,8 @@ public with sharing class myclass {
 	public Integer doSomethingElse(){
 		return 1;
 	}
+
+	public String doSomething(){
+		return 'something';
+	}
 }
