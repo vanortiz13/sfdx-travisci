@@ -8,4 +8,9 @@ private class mytest {
         // Uncomment the following line to cause a build failure
         // System.assert(false);
     }
+
+    @isTest
+    static void unitTest1(){
+         myclass demo = new myclass();
+    }
 }
