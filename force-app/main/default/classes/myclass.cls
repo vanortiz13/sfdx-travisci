@@ -7,6 +7,10 @@ public with sharing class myclass {
 		return '1.0.0';
 	}
 
+	public Integer doSomethingElse(){
+		return 1;
+	}
+
 	public String doSomething(){
 		return 'something';
 	}
