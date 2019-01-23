@@ -10,4 +10,8 @@ public with sharing class myclass {
 	public String doSomething(){
 		return 'something';
 	}
+
+	public String method4(){
+		return '4';
+	}
 }
